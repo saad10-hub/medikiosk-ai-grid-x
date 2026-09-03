@@ -1,0 +1,5 @@
+[functions.ai-clinical]
+verify_jwt = false
+
+[functions.ocr-extraction]
+verify_jwt = false
